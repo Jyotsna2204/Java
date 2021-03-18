@@ -1,0 +1,6 @@
+Welcome to JAVA
+
+content
+strings
+control
+inputs
